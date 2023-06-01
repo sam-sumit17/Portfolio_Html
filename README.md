@@ -8,7 +8,7 @@
         <title>SUMIT KUMAR Portfolio </title>
 </head>
 <body><body bgcolor="sky blue" text="black" link="blue"></body>
-      <img src="C:\Users\SUMIT KUMAR\Downloads\IMG_20230301_132736-modified.png" alt="SUMIT KUMAR PROFILE PIC" width="200" length="200">
+      <img src="https://ibb.co/fq6qxNb" alt="SUMIT KUMAR PROFILE PIC" width="200" length="200">
       <h1>SUMIT KUMAR</h1>
       <h3>
       <p><em>Undergrad student at  </em><B>NATIONAL INSTITUTE OF TECHNOLOGY AGARTALA </B></p>
