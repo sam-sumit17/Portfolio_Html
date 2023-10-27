@@ -88,7 +88,7 @@ transition:all 0.8s;
 .faded-text{
     user-select: none;
     font-size: 5em;
-    font-style: italic;
+
     color: rgb(186, 186, 186);
     bottom: -16%;
     left: 5%;
