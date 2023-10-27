@@ -166,6 +166,7 @@ transition:all 0.8s;
     gap: 3rem;
 }
 a:visited{
+    text-decoration: none;
     color:currentColor;
 }
 .hero-section-right{
