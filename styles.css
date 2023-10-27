@@ -179,7 +179,7 @@ a:visited{
 }
 .userimage{
     padding: 2.5rem;
-    filter: grayscale(1);
+    filter:grayscale(1);
     transform:all 3s;
     animation: scaleImage 5s linear infinite;
 }
